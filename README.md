@@ -1,4 +1,6 @@
-<h2 align="right">**Bem vindo ao meu perfil,<br>Sou um estudante focado em Dev FullStack buscando um código limpo e eficiente**</h2>
+<br clear="both">
+
+<h2 align="right">Bem vindo ao meu perfil,<br>Sou um estudante focado em Dev FullStack buscando um código limpo e eficiente.</h2>
 
 ###
 
